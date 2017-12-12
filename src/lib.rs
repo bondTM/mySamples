@@ -1,5 +1,5 @@
 extern crate winapi;
 
-mod minwinbase;
-mod minwindef;
-mod winnetwk;
+pub mod minwinbase;
+pub mod minwindef;
+pub mod winnetwk;
