@@ -1,0 +1,8 @@
+[package]
+name = "winapi_initializer"
+version = "0.1.0"
+authors = ["bond <bond00728tm@gmail.com>"]
+repository = "https://github.com/bondTM/winapi_initializer"
+
+[dependencies]
+winapi = "0.2.4"
